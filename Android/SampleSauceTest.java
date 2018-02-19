@@ -5,8 +5,8 @@ import java.net.URL;
 
 public class SampleSauceCheckBoxTest {
 
-  public static final String USERNAME = "YOUR_USERNAME";
-  public static final String ACCESS_KEY = "YOUR_ACCESS_KEY";
+  public static final String USERNAME = "nostanle";
+  public static final String ACCESS_KEY = "5631607a-dccd-4bc2-8f96-50ce1f84058c";
   public static final String URL = "https://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:443/wd/hub";
 
   public static void main(String[] args) throws Exception {
